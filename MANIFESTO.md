@@ -2,11 +2,19 @@
 
 AI stopped being about chatbots when we started delegating the work.
 
-For the past two years, we've been refining what happens when you give an AI orchestrator **real access**—to your email, your calendar, your codebase, your customers. We didn't build a better text box. We built a **team**.
+For the past two years, I've been encouraging my human team at Curacel to fully embrace AI as the nature of work has changed. 
+I wrote an AI manifesto and we've been refining how we operate, using n8n and all sort of workflows and agents we built internally.
 
-This is how we run Curacel and Soteria AI: **Ada, Spock, and Scotty**—three agents running across two continents, managing operations for a 51-person company and building the next generation of AI products.
+Fast forward to 2026:
+No longer a chatbox. I built a **team**.
 
-We believe the future belongs to **Orchestrated Intelligence**—systems that don't just answer questions, but own outcomes.
+Enter my AI Agents : **Ada, Spock, and Scotty**—three agents running across two continents, 
+
+
+I gave AI orchestrator **real access**—to my email, my calendar, my codebase, my customers. 
+
+
+I believe the future belongs to **Orchestrated Intelligence**—systems that don't just answer questions, but own outcomes.
 
 ---
 
